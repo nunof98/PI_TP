@@ -1,5 +1,7 @@
 # PI_TP
-Imperative Programming – Analysis of direct current electrical circuits
+### **Programação Imperativa – Imperative Programming**
+
+Analysis of direct current electrical circuits
 
 The application must be able to read a text file, which will contain the description of the circuit to be analyzed. This file, named “cirtuito.cir” and whose content will be represented in ASCII, will define a circuit with only two types of elements:
 - DC Voltage Sources;
