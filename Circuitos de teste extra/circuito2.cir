@@ -1,0 +1,9 @@
+Circuito a implementar (Fonte de tensao negativa e na malha 2 / Resistencias fora de ordem)
+V1 3 0 -10
+R6 2 3 10
+R5 2 0 10
+R4 2 0 1
+R3 1 0 1
+R2 1 0 10
+R100 1 0 1
+.END
